@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Study\\Test\\githoang2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74900B2B-B2FA-45AC-91D7-6BF57F5D476F}|githoang2\\githoang2.csproj|c:\\study\\test\\githoang2\\githoang2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74900B2B-B2FA-45AC-91D7-6BF57F5D476F}|githoang2\\githoang2.csproj|solutionrelative:githoang2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74900B2B-B2FA-45AC-91D7-6BF57F5D476F}|githoang2\\githoang2.csproj|c:\\study\\test\\githoang2\\githoang2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74900B2B-B2FA-45AC-91D7-6BF57F5D476F}|githoang2\\githoang2.csproj|solutionrelative:githoang2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74900B2B-B2FA-45AC-91D7-6BF57F5D476F}|githoang2\\githoang2.csproj|c:\\study\\test\\githoang2\\githoang2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74900B2B-B2FA-45AC-91D7-6BF57F5D476F}|githoang2\\githoang2.csproj|solutionrelative:githoang2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74900B2B-B2FA-45AC-91D7-6BF57F5D476F}|githoang2\\githoang2.csproj|c:\\study\\test\\githoang2\\githoang2\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74900B2B-B2FA-45AC-91D7-6BF57F5D476F}|githoang2\\githoang2.csproj|solutionrelative:githoang2\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74900B2B-B2FA-45AC-91D7-6BF57F5D476F}|githoang2\\githoang2.csproj|c:\\study\\test\\githoang2\\githoang2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{74900B2B-B2FA-45AC-91D7-6BF57F5D476F}|githoang2\\githoang2.csproj|solutionrelative:githoang2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -23,13 +39,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Study\\Test\\githoang2\\githoang2\\Program.cs",
+              "RelativeDocumentMoniker": "githoang2\\Program.cs",
+              "ToolTip": "C:\\Study\\Test\\githoang2\\githoang2\\Program.cs",
+              "RelativeToolTip": "githoang2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:46:16.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Study\\Test\\githoang2\\githoang2\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "githoang2\\Form2.Designer.cs",
+              "ToolTip": "C:\\Study\\Test\\githoang2\\githoang2\\Form2.Designer.cs",
+              "RelativeToolTip": "githoang2\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:45:33.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Study\\Test\\githoang2\\githoang2\\Form2.cs",
+              "RelativeDocumentMoniker": "githoang2\\Form2.cs",
+              "ToolTip": "C:\\Study\\Test\\githoang2\\githoang2\\Form2.cs [Design]",
+              "RelativeToolTip": "githoang2\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:45:30.134Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Study\\Test\\githoang2\\githoang2\\Form2.cs",
+              "RelativeDocumentMoniker": "githoang2\\Form2.cs",
+              "ToolTip": "C:\\Study\\Test\\githoang2\\githoang2\\Form2.cs",
+              "RelativeToolTip": "githoang2\\Form2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:45:22.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Study\\Test\\githoang2\\githoang2\\Form1.cs",
               "RelativeDocumentMoniker": "githoang2\\Form1.cs",
               "ToolTip": "C:\\Study\\Test\\githoang2\\githoang2\\Form1.cs [Design]",
               "RelativeToolTip": "githoang2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T10:57:50.902Z",
+              "WhenOpened": "2025-04-06T11:45:21.408Z",
               "EditorCaption": " [Design]"
             }
           ]
