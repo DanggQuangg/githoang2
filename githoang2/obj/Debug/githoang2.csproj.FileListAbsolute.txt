@@ -8,3 +8,14 @@ C:\Study\Test\githoang2\githoang2\obj\Debug\githoang2.csproj.GenerateResource.ca
 C:\Study\Test\githoang2\githoang2\obj\Debug\githoang2.csproj.CoreCompileInputs.cache
 C:\Study\Test\githoang2\githoang2\obj\Debug\githoang2.exe
 C:\Study\Test\githoang2\githoang2\obj\Debug\githoang2.pdb
+C:\Users\Tnvho\OneDrive\Project\githoang2\githoang2\bin\Debug\githoang2.exe.config
+C:\Users\Tnvho\OneDrive\Project\githoang2\githoang2\bin\Debug\githoang2.exe
+C:\Users\Tnvho\OneDrive\Project\githoang2\githoang2\bin\Debug\githoang2.pdb
+C:\Users\Tnvho\OneDrive\Project\githoang2\githoang2\obj\Debug\githoang2.csproj.AssemblyReference.cache
+C:\Users\Tnvho\OneDrive\Project\githoang2\githoang2\obj\Debug\githoang2.Form1.resources
+C:\Users\Tnvho\OneDrive\Project\githoang2\githoang2\obj\Debug\githoang2.Form2.resources
+C:\Users\Tnvho\OneDrive\Project\githoang2\githoang2\obj\Debug\githoang2.Properties.Resources.resources
+C:\Users\Tnvho\OneDrive\Project\githoang2\githoang2\obj\Debug\githoang2.csproj.GenerateResource.cache
+C:\Users\Tnvho\OneDrive\Project\githoang2\githoang2\obj\Debug\githoang2.csproj.CoreCompileInputs.cache
+C:\Users\Tnvho\OneDrive\Project\githoang2\githoang2\obj\Debug\githoang2.exe
+C:\Users\Tnvho\OneDrive\Project\githoang2\githoang2\obj\Debug\githoang2.pdb
